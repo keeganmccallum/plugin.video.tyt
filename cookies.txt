@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.tytnetwork.com	TRUE	/	FALSE	1480801524	__cfduid	d83dd119fab6e29c2e73afb09ac897bb41449265524
+www.tytnetwork.com	FALSE	/	TRUE	1450518653	wordpress_logged_in_685c156a622d6c4a9d0eab20e47fe2d3	k4mccall%7C1450475450%7Cdwe8fG3B1a449ujbMNTATqiH0jPatu3EUTS1CWWma6C%7C043fa3acc83cd89cebf34cc7f70d040070ed64f43ddfe1b3a170ac5cd1dc6e89
+www.tytnetwork.com	FALSE	/wp-admin	TRUE	1450518653	wordpress_sec_685c156a622d6c4a9d0eab20e47fe2d3	k4mccall%7C1450475450%7Cdwe8fG3B1a449ujbMNTATqiH0jPatu3EUTS1CWWma6C%7C2f6ed74d5327408e1df26350145e0932e9179c22071e3629087c99e7f2d8b987
+www.tytnetwork.com	FALSE	/wp-content/plugins	TRUE	1450518653	wordpress_sec_685c156a622d6c4a9d0eab20e47fe2d3	k4mccall%7C1450475450%7Cdwe8fG3B1a449ujbMNTATqiH0jPatu3EUTS1CWWma6C%7C2f6ed74d5327408e1df26350145e0932e9179c22071e3629087c99e7f2d8b987
